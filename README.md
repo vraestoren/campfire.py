@@ -2,11 +2,6 @@
 
 > Web-API for [Campfire](https://campfire.moe) Russian social network for fandom communities with posts, wikis, activities, and more.
 
-## Installation
-```bash
-pip install requests
-```
-
 ## Quick Start
 ```python
 from campfire import Campfire
